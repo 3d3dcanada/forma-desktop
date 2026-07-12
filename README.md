@@ -13,8 +13,8 @@ Grab the latest installer from **[Releases](../../releases)**:
 | Platform | Package | Status |
 |---|---|---|
 | Linux (Ubuntu/Debian) | `.deb` | ✅ available |
-| Windows | `.msi` / `.exe` | coming soon |
-| macOS | `.dmg` | coming soon |
+| Windows | `.exe` (setup) / `.msi` | ✅ available |
+| macOS (Apple Silicon) | `.dmg` | ✅ available |
 
 Install on Linux: `sudo apt install ./FORMA_<version>_amd64.deb` — FORMA appears in your app
 menu. Closing the window shuts the whole app down; nothing keeps running in the background.
