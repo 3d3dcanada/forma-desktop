@@ -47,3 +47,8 @@ given where credit is due:
 
 Input and feedback are genuinely welcome. [Open an issue](../../issues) and tell us what you
 think, what's missing, or what you'd build with it.
+
+## Licence
+
+FORMA is free software under the [GNU Affero General Public License, version 3](LICENSE) (AGPL-3.0).
+The open-source projects it builds on keep their own licences, listed above.
